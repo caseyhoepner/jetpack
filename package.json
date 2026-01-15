@@ -5,7 +5,7 @@
   "dependencies": {
     "aws-sdk": "^2.392.0",
     "enzyme-to-json": "^3.3.4",
-    "jest": "^23.6.0",
+    "jest": "^30.2.0",
     "moment": "^2.22.2",
     "moment-timezone": "^0.5.23",
     "node-geocoder": "^3.22.0",
@@ -17,7 +17,7 @@
     "react-moment": "^0.8.3",
     "react-redux": "^5.1.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.0",
+    "react-scripts": "5.0.1",
     "redux": "^4.0.1",
     "uuid": "^3.3.2"
   },
